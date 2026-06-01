@@ -7,7 +7,7 @@ Documentação da API - Utilitários para construção de redes, plataformas e c
 **Gera um usuário fake aleatório**
 
 ```
-social-toolkit-psi.vercel.app/api/fakeUser/random
+social-toolkit-gamma.vercel.app/api/fakeUser/random
 ```
 <details>
   <summary><b>Exemplo de retorno:</b></summary>
@@ -36,7 +36,7 @@ social-toolkit-psi.vercel.app/api/fakeUser/random
 **Gera uma usuária aleatória feminina**
 
 ```
-social-toolkit-psi.vercel.app/api/fakeUser/random/gender/f
+social-toolkit-gamma.vercel.app/api/fakeUser/random/gender/f
 ```
 
 <details>
@@ -66,7 +66,7 @@ social-toolkit-psi.vercel.app/api/fakeUser/random/gender/f
 **Gera um usuário aleatório masculino**
 
 ```
-social-toolkit-psi.vercel.app/api/fakeUser/random/gender/m
+social-toolkit-gamma.vercel.app/api/fakeUser/random/gender/m
 ```
 
 <details>
@@ -96,7 +96,7 @@ social-toolkit-psi.vercel.app/api/fakeUser/random/gender/m
 **Busca um usuário pelo ID**
 
 ```
-social-toolkit-psi.vercel.app/api/fakeUser/id/1 
+social-toolkit-gamma.vercel.app/api/fakeUser/id/1 
 ```
 
 <details>
@@ -126,7 +126,7 @@ social-toolkit-psi.vercel.app/api/fakeUser/id/1
 **Retorna todos os usuários da API**
 
 ```
-social-toolkit-psi.vercel.app/api/fakeUser/all
+social-toolkit-gamma.vercel.app/api/fakeUser/all
 ```
 
 <details>
@@ -2418,7 +2418,7 @@ social-toolkit-psi.vercel.app/api/fakeUser/all/gender/m
 **Gera um avatar aleatório**
 
 ```
-social-toolkit-psi.vercel.app/api/avatar/random
+social-toolkit-gamma.vercel.app/api/avatar/random
 ```
 <details>
 <summary><b>Exemplo de retorno:</b></summary>
@@ -2432,7 +2432,7 @@ social-toolkit-psi.vercel.app/api/avatar/random
 **Gera um avatar aleatório feminino**
 
 ```
-social-toolkit-psi.vercel.app/api/avatar/random/gender/f
+social-toolkit-gamma.vercel.app/api/avatar/random/gender/f
 ```
 
 <details>
@@ -2447,7 +2447,7 @@ social-toolkit-psi.vercel.app/api/avatar/random/gender/f
 **Gera um avatar aleatório masculino**
 
 ```
-social-toolkit-psi.vercel.app/api/avatar/random/gender/m
+social-toolkit-gamma.vercel.app/api/avatar/random/gender/m
 ```
 
 <details>
@@ -2462,7 +2462,7 @@ social-toolkit-psi.vercel.app/api/avatar/random/gender/m
 **Busca um avatar pelo ID**
 
 ```
-social-toolkit-psi.vercel.app/api/avatar/id/1
+social-toolkit-gamma.vercel.app/api/avatar/id/1
 ```
 
 <details>
@@ -2479,7 +2479,7 @@ social-toolkit-psi.vercel.app/api/avatar/id/1
 **Gera um banner aleatório**
 
 ```
-social-toolkit-psi.vercel.app/api/banner/random
+social-toolkit-gamma.vercel.app/api/banner/random
 ```
 
 <details>
@@ -2494,7 +2494,7 @@ social-toolkit-psi.vercel.app/api/banner/random
 **Busca um banner pelo ID**
 
 ```
-social-toolkit-psi.vercel.app/api/banner/id/1
+social-toolkit-gamma.vercel.app/api/banner/id/1
 ```
 
 <details>
@@ -2511,7 +2511,7 @@ social-toolkit-psi.vercel.app/api/banner/id/1
 **Gera uma postagem aleatória**
 
 ```
-social-toolkit-psi.vercel.app/api/post/random
+social-toolkit-gamma.vercel.app/api/post/random
 ```
 
 <details>
@@ -2540,7 +2540,7 @@ social-toolkit-psi.vercel.app/api/post/random
 **Busca uma postagem aleatória de um usuário**
 
 ```
-social-toolkit-psi.vercel.app/api/post/random/user/aghata
+social-toolkit-gamma.vercel.app/api/post/random/user/aghata
 ```
 
 <details>
@@ -2569,7 +2569,7 @@ social-toolkit-psi.vercel.app/api/post/random/user/aghata
 **Retorna todas as postagens da API**
 
 ```
-social-toolkit-psi.vercel.app/api/post/all
+social-toolkit-gamma.vercel.app/api/post/all
 ```
 
 <details>
@@ -8185,7 +8185,7 @@ social-toolkit-psi.vercel.app/api/post/all
 **Retorna todas as postagens de um usuário**
 
 ```
-social-toolkit-psi.vercel.app/api/post/all/user/eu_nataly_lima
+social-toolkit-gamma.vercel.app/api/post/all/user/eu_nataly_lima
 ```
 
 <details>
@@ -8272,7 +8272,7 @@ social-toolkit-psi.vercel.app/api/post/all/user/eu_nataly_lima
 **Retorna um nome aleatório**
 
 ```
-social-toolkit-psi.vercel.app/api/name/random
+social-toolkit-gamma.vercel.app/api/name/random
 ```
 
 <details>
@@ -8289,7 +8289,7 @@ social-toolkit-psi.vercel.app/api/name/random
 **Retorna um nome aleatório feminino**
 
 ```
-social-toolkit-psi.vercel.app/api/name/random/gender/f
+social-toolkit-gamma.vercel.app/api/name/random/gender/f
 ```
 
 <details>
@@ -8305,7 +8305,7 @@ social-toolkit-psi.vercel.app/api/name/random/gender/f
 **Retorna um nome aleatório masculino**
 
 ```
-social-toolkit-psi.vercel.app/api/name/random/gender/m
+social-toolkit-gamma.vercel.app/api/name/random/gender/m
 ```
 
 <details>
@@ -8320,7 +8320,7 @@ social-toolkit-psi.vercel.app/api/name/random/gender/m
 **Retorna todos os nomes da API**
 
 ```
-social-toolkit-psi.vercel.app/api/name/all
+social-toolkit-gamma.vercel.app/api/name/all
 ```
 
 <details>
@@ -8441,7 +8441,7 @@ social-toolkit-psi.vercel.app/api/name/all
 **Retorna todos os nomes femininos da API**
 
 ```
-social-toolkit-psi.vercel.app/api/name/all/gender/f
+social-toolkit-gamma.vercel.app/api/name/all/gender/f
 ```
 
 <details>
@@ -8513,7 +8513,7 @@ social-toolkit-psi.vercel.app/api/name/all/gender/f
 **Retorna todos os nomes masculinos da API**
 
 ```
-social-toolkit-psi.vercel.app/api/name/all/gender/m
+social-toolkit-gamma.vercel.app/api/name/all/gender/m
 ```
 
 <details>
@@ -8580,7 +8580,7 @@ social-toolkit-psi.vercel.app/api/name/all/gender/m
 **Retorna uma bio aleatória**
 
 ```
-social-toolkit-psi.vercel.app/api/bio/random
+social-toolkit-gamma.vercel.app/api/bio/random
 ```
 
 <details>
@@ -8597,7 +8597,7 @@ social-toolkit-psi.vercel.app/api/bio/random
 **Gera um email aleatório**
 
 ```
-social-toolkit-psi.vercel.app/api/email/random
+social-toolkit-gamma.vercel.app/api/email/random
 ```
 
 <details>
@@ -8612,7 +8612,7 @@ social-toolkit-psi.vercel.app/api/email/random
 **Gera um email aleatório por domínio**
 
 ```
-social-toolkit-psi.vercel.app/api/email/random/domain/gmail
+social-toolkit-gamma.vercel.app/api/email/random/domain/gmail
 ```
 
 <details>
@@ -8627,7 +8627,7 @@ social-toolkit-psi.vercel.app/api/email/random/domain/gmail
 **Faz a validação de emails**
 
 ```
-social-toolkit-psi.vercel.app/api/email/verify/{email}
+social-toolkit-gamma.vercel.app/api/email/verify/{email}
 ```
 
 <details>

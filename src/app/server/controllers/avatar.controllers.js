@@ -59,7 +59,7 @@ export async function randomAvatarForGender(gender) {
 
 //Erro ao não informar nenhum gênero
 export async function randomAvatarForGenderError() {
-    return NextResponse.json({ error: "Você deve fornecer um gênero. Ex: api/avatar/random/gender/m ou api/avatar/random/gender/f" }, { status: 400 });
+    return NextResponse.json({ error: "Você deve fornecer um gênero. Ex: /api/avatar/random/gender/m ou api/avatar/random/gender/f" }, { status: 400 });
 }
 
 //Gera um avatar manualmente pelo id

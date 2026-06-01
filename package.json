@@ -2,6 +2,31 @@
   "name": "social-toolkit",
   "version": "1.0.0",
   "private": true,
+  "description": "Utilitários para a construção de redes, plataformas e comunidades sociais",
+  "keywords": [
+    "social-toolkit",
+    "social",
+    "toolkit",
+    "rede",
+    "utilitarios",
+    "utils",
+    "networtk",
+    "social toolkit",
+    "rede social",
+    "social toolkit utils"
+  ],
+  "homepage": "https://github.com/kaue-developer/social-toolkit#readme",
+  "bugs": {
+    "url": "https://github.com/kaue-developer/social-toolkit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaue-developer/social-toolkit.git"
+  },
+  "license": "MIT",
+  "author": "Kauê Barreto Benicio",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +35,8 @@
   "dependencies": {
     "next": "^16.2.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
-  }
+    "react-dom": "19.2.0",
+    "vercel": "^54.6.1"
+  },
+  "devDependencies": {}
 }

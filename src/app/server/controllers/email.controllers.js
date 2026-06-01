@@ -22,7 +22,7 @@ export async function randomEmail() {
 
 //Erro ao não informar nenhum domínio de email
 export async function domainEmailError() {
-    return NextResponse.json({ error: "Você deve fornecer um domínio de email. Ex: api/email/random/domain/gmail.com ou api/email/random/domain/gmail"}, { status: 400 });
+    return NextResponse.json({ error: "Você deve fornecer um domínio de email. Ex: /api/email/random/domain/gmail.com ou /api/email/random/domain/gmail"}, { status: 400 });
 }
 
 //Gera um email aleatório por domínio
@@ -75,5 +75,5 @@ export async function verifyEmail(email) {
 
 //Erro de validação ao não informar nenhum email
 export async function verifyEmailError() {
-    return NextResponse.json({ error: "Você deve fornecer um email. Ex: api/email/verify/email@gmail.com" }, { status: 400 });
+    return NextResponse.json({ error: "Você deve fornecer um email. Ex: /api/email/verify/email@gmail.com" }, { status: 400 });
 }

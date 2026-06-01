@@ -8,7 +8,7 @@ Todas as mudanças e atualizações do projeto
 
 #### Novo utilitário para geração de comentários
 
-- [ ] **Geração de comentários** - Geração de comentários fakes
+- [ ] **Comentários** - Geração de comentários fakes
 
 ## [1.0.0] - 2026-05-28
 ### Adicionado
@@ -260,7 +260,6 @@ Todas as mudanças e atualizações do projeto
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
 | GET | `social-toolkit-psi.vercel.app/api/email/verify/{email}` | Faz a validação de um email |
-|--------|----------|-----------|
 | GET | `social-toolkit-psi.vercel.app/api/email/random` | Gera um email aleatório |
 | GET | `social-toolkit-psi.vercel.app/api/email/random/domain/{email domain}` | Gera um email aleatório por domínio |
 
