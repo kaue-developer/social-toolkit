@@ -4,7 +4,7 @@ Obrigado por considerar contribuir com este projeto! 🚀
 Sua ajuda é essencial para construir ferramentas melhores para desenvolvedores de comunidades e plataformas sociais.
 
 ## 📋 Índice
-- [Código de Conduta](#código-de-conduta)
+- [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Como posso contribuir?](#como-posso-contribuir)
 
 ## 📜 Código de Conduta
