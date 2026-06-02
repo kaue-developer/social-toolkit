@@ -193,13 +193,13 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/random` | Gera 1 usuário aleatório |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/random/gender/f` | Gera 1 usuária aleatória feminina |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/random/gender/m` | Gera 1 usuário aleatório masculino |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/id/{id}` | Busca 1 usuário pelo ID (1-80) |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/all` | Retorna todos os usuários (80 usuários) |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/all/gender/f` | Retorna todas as usuárias femininas |
-| GET | `social-toolkit-psi.vercel.app/api/fakeUser/all/gender/m` | Retorna todos os usuários masculinos |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/random` | Gera 1 usuário aleatório |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/random/gender/f` | Gera 1 usuária aleatória feminina |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/random/gender/m` | Gera 1 usuário aleatório masculino |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/id/{id}` | Busca 1 usuário pelo ID (1-80) |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/all` | Retorna todos os usuários (80 usuários) |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/all/gender/f` | Retorna todas as usuárias femininas |
+| GET | `social-toolkit-gamma.vercel.app/api/fakeUser/all/gender/m` | Retorna todos os usuários masculinos |
 
 - Geração de avatares
 
@@ -207,10 +207,10 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/avatar/random` | Gera 1 avatar aleatório |
-| GET | `social-toolkit-psi.vercel.app/api/avatar/random/gender/f` | Gera 1 avatar aleatório feminino |
-| GET | `social-toolkit-psi.vercel.app/api/avatar/random/gender/m` | Gera 1 avatar aleatório masculino |
-| GET | `social-toolkit-psi.vercel.app/api/avatar/id/{algum número}` | Busca 1 avatar pelo ID (1-80) |
+| GET | `social-toolkit-gamma.vercel.app/api/avatar/random` | Gera 1 avatar aleatório |
+| GET | `social-toolkit-gamma.vercel.app/api/avatar/random/gender/f` | Gera 1 avatar aleatório feminino |
+| GET | `social-toolkit-gamma.vercel.app/api/avatar/random/gender/m` | Gera 1 avatar aleatório masculino |
+| GET | `social-toolkit-gamma.vercel.app/api/avatar/id/{algum número}` | Busca 1 avatar pelo ID (1-80) |
 
 - Geração de banners
 
@@ -218,8 +218,8 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/banner/random` | Gera 1 banner aleatório |
-| GET | `social-toolkit-psi.vercel.app/api/banner/id/(algum número)` | busca 1 banner pelo ID (1-80) |
+| GET | `social-toolkit-gamma.vercel.app/api/banner/random` | Gera 1 banner aleatório |
+| GET | `social-toolkit-gamma.vercel.app/api/banner/id/(algum número)` | busca 1 banner pelo ID (1-80) |
 
 - Geração de postagens fakes
 
@@ -227,10 +227,10 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/post/random` | Gera 1 postagem aleatória |
-| GET | `social-toolkit-psi.vercel.app/api/post/random/user/{user}` | busca 1 postagem aleatória de 1 usuário |
-| GET | `social-toolkit-psi.vercel.app/api/post/all` | Retorna todas as postagens (400 postagens) |
-| GET | `social-toolkit-psi.vercel.app/api/post/all/user/{user}` | Retorna todas as postagens de 1 usuário |
+| GET | `social-toolkit-gamma.vercel.app/api/post/random` | Gera 1 postagem aleatória |
+| GET | `social-toolkit-gamma.vercel.app/api/post/random/user/{user}` | busca 1 postagem aleatória de 1 usuário |
+| GET | `social-toolkit-gamma.vercel.app/api/post/all` | Retorna todas as postagens (400 postagens) |
+| GET | `social-toolkit-gamma.vercel.app/api/post/all/user/{user}` | Retorna todas as postagens de 1 usuário |
 
 - Geração de nomes
 
@@ -238,12 +238,12 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/name/random` | Gera 1 nome aleatório |
-| GET | `social-toolkit-psi.vercel.app/api/name/random/gender/f` | Gera 1 nome aleatório feminino |
-| GET | `social-toolkit-psi.vercel.app/api/name/random/gender/m` | Gera 1 nome aleatório masculino |
-| GET | `social-toolkit-psi.vercel.app/api/name/all` | Retorna todos os nomes |
-| GET | `social-toolkit-psi.vercel.app/api/name/all/gender/f` | Retorna todos os nomes femininos |
-| GET | `social-toolkit-psi.vercel.app/api/name/all/gender/m` | Retorna todos os nomes masculinos |
+| GET | `social-toolkit-gamma.vercel.app/api/name/random` | Gera 1 nome aleatório |
+| GET | `social-toolkit-gamma.vercel.app/api/name/random/gender/f` | Gera 1 nome aleatório feminino |
+| GET | `social-toolkit-gamma.vercel.app/api/name/random/gender/m` | Gera 1 nome aleatório masculino |
+| GET | `social-toolkit-gamma.vercel.app/api/name/all` | Retorna todos os nomes |
+| GET | `social-toolkit-gamma.vercel.app/api/name/all/gender/f` | Retorna todos os nomes femininos |
+| GET | `social-toolkit-gamma.vercel.app/api/name/all/gender/m` | Retorna todos os nomes masculinos |
 
 - Geração de bios
 
@@ -251,7 +251,7 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/bio/random` | Gera 1 bio aleatória |
+| GET | `social-toolkit-gamma.vercel.app/api/bio/random` | Gera 1 bio aleatória |
 
 - Validaçẽs e geração de emails
 
@@ -259,9 +259,9 @@ Todas as mudanças e atualizações do projeto
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `social-toolkit-psi.vercel.app/api/email/verify/{email}` | Faz a validação de um email |
-| GET | `social-toolkit-psi.vercel.app/api/email/random` | Gera um email aleatório |
-| GET | `social-toolkit-psi.vercel.app/api/email/random/domain/{email domain}` | Gera um email aleatório por domínio |
+| GET | `social-toolkit-gamma.vercel.app/api/email/verify/{email}` | Faz a validação de um email |
+| GET | `social-toolkit-gamma.vercel.app/api/email/random` | Gera um email aleatório |
+| GET | `social-toolkit-gamma.vercel.app/api/email/random/domain/{email domain}` | Gera um email aleatório por domínio |
 
 ### Tipo de versão:
 - `[Adicionado]` - Novas funcionalidades
