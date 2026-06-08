@@ -50,7 +50,7 @@ Este projeto adota um [Código de Conduta](CODE_OF_CONDUCT.md). Ao participar, v
 - Conversas diretas (DMs)
 
 **Comunidades/grupos**:
-- Criação de grupos/comunidaddes
-- Regras personaliozadas por comunidades/grupos
+- Criação de grupos/comunidades
+- Regras personalizadas por comunidades/grupos
 - Eventos
 - Feed por comunidade/grupo
